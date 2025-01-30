@@ -1666,7 +1666,7 @@ input, select, textarea {
     			 transition: transform 0.3s ease-in-out;
 			 }
 
-		.icon :hover {
+		.icon:hover {
     			transform: scale(1.2); /* Üzerine gelince büyüme efekti */
     			color: orange; /* Hover rengi */
 				}
