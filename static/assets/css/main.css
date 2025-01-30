@@ -1659,14 +1659,14 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
-		.fa-star {
+		.icon {
    			 color: gold; /* Yıldızı altın rengi yap */
     			 font-size: 50px; /* Boyutu büyüt */
     			 text-shadow: 2px 2px 10px rgba(255, 215, 0, 0.6); /* Hafif bir parıltı efekti */
     			 transition: transform 0.3s ease-in-out;
 			 }
 
-		.fa-star:hover {
+		.icon :hover {
     			transform: scale(1.2); /* Üzerine gelince büyüme efekti */
     			color: orange; /* Hover rengi */
 				}
